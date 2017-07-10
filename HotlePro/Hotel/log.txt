@@ -1,1 +1,4 @@
-﻿
+﻿时间:7/10/2017 4:23:59 AM
+控制器:CompanyInfo
+动作方法:Index
+异常信息:A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
